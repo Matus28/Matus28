@@ -35,6 +35,9 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
   </a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=materialui" alt="materialui" width="40" height="40"/>
+  </a>    
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=expressjs" alt="express" width="40" height="40"/>
   </a>
@@ -53,11 +56,20 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
   </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vite" alt="vite" width="40" height="40"/>
+  </a>
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/>
   </a>
   <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cypress" alt="cypress" width="40" height="40"/>
+    <img src="images/cypress.png" alt="cypress" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
+  </a>
+  <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vim" alt="vim" width="40" height="40"/>
   </a>
 </p>
 
