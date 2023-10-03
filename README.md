@@ -17,7 +17,10 @@
 
 ### :hammer_and_pick: Tech Stack
 <p align="center">
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="images/typescript.png" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
