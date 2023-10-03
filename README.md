@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Matus</h1>
 
 <h3 align="center">I'm a Fullstack Developer from Bratislava, Slovakia.</h3>
-<p align="center" style='font-size:3rem;'>I'm a Fullstack Developer from Bratislava, Slovakia.</p>
 
 ### 🤝 Connect with me
 <ul style="list-style-type: none">
@@ -11,8 +10,10 @@
   <li><a href="https://www.codewars.com/users/Matus28"><img align="left" src="images/codewars.svg" alt="Matus Tatarko | Codewars" width="21px"/>Matus28</a></li>
 </ul>
 
+### :basecamp: Projects
 
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 <!-- [![Matust Tatarko](images/linkedin.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/mat%C3%BA%C5%A1-tatarko-a71111164/)) -->
 
