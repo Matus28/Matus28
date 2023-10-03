@@ -1,7 +1,12 @@
-### Hi there 👋, I'm Matus
+<h1 align="center">Hi there 👋, I'm Matus</h1>
+<h3 align="center">I'm a Fullstack Developer from Bratislava, Slovakia.</h3>
+
+### 🤝 Connect with me
+<a href="https://www.linkedin.com/in/mat%C3%BA%C5%A1-tatarko-a71111164/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Matus Tatarko | LinkedIn" width="21px"/></a>
 
 
-I'm a Fullstack Developer from Bratislava, Slovakia.
+
+<!-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/) -->
 
 <!-- Here are some ideas to get you started:
 
