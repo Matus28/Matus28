@@ -6,7 +6,7 @@
 ### 🤝 Connect with me
 <ul style="list-style-type: none">
   <li><a href="https://www.linkedin.com/in/mat%C3%BA%C5%A1-tatarko-a71111164/"><img align="left" src="images/linkedin.png" alt="Matus Tatarko | LinkedIn" width="21px"/> Matus Tatarko</a></li>
-  <li><a href="matus.tatarko28@gmail.com"><img align="left" src="images/gmail.png" alt="Matus Tatarko | Gmail" width="21px"/>matus.tatarko28@gmail.com</a></li>
+  <li><a href="mailto:matus.tatarko28@gmail.com" type="email"><img align="left" src="images/gmail.png" alt="Matus Tatarko | Gmail" width="21px"/>matus.tatarko28@gmail.com</a></li>
   <li><a href="https://gitlab.com/Matus28"><img align="left" src="images/gitlab.png" alt="Matus Tatarko | GitLab" width="21px"/>Matus28</a></li>
   <li><a href="https://www.codewars.com/users/Matus28"><img align="left" src="images/codewars.svg" alt="Matus Tatarko | Codewars" width="21px"/>Matus28</a></li>
 </ul>
