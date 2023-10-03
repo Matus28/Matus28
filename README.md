@@ -13,7 +13,7 @@
 ### :basecamp: Projects
 
 
-![Snake animation](https://github.com/Matus28/Matus28/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/Matus28/Matus28/blob/output/github-contribution-grid-snake2.svg)
 
 <!-- [![Matust Tatarko](images/linkedin.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/mat%C3%BA%C5%A1-tatarko-a71111164/)) -->
 
