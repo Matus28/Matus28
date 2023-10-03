@@ -38,6 +38,9 @@
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=materialui" alt="materialui" width="40" height="40"/>
   </a>    
+  <a href="https://scrollrevealjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://scrollrevealjs.org/img/logomark.svg" alt="scrollrevealjs" width="40" height="40"/>
+  </a>      
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=expressjs" alt="express" width="40" height="40"/>
   </a>
