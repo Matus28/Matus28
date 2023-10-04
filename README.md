@@ -12,8 +12,8 @@
 
 ### :basecamp: Projects
 - [Weather App](https://github.com/Matus28/Weather-web-application) - React web application to show actual weather and forecast for specific cities.
-- [Portfolio website](https://github.com/Matus28/Matus28.github.io) - Portfolio website with little description about myself, my showcase of projects and experiences.
-- [Music player](https://github.com/Matus28/Music-player) - React web application for listening music.
+- [Portfolio website](https://github.com/Matus28/Matus28.github.io) - Portfolio website with a little description about myself, my showcase of projects and experiences.
+- [Music player](https://github.com/Matus28/Music-player) - React web application for listening to music and creating own playlists.
 
 ### :hammer_and_pick: Tech Stack
 <p align="center">
