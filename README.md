@@ -27,6 +27,9 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="https://tanstack.com/query/latest/docs/react/overview" target="_blank" rel="noreferrer">
+    <img src="/images/react-query.svg" alt="react query" width="40" height="40"/>
+  </a>
     <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
