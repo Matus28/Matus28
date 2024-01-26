@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Matus</h1>
 
-<h3 align="center">I'm a Fullstack Developer from Bratislava, Slovakia.</h3>
+<h3 align="center">I'm a Fullstack Developer from Slovakia.</h3>
 
 ### 🤝 Connect with me
 <ul style="list-style-type: none">
